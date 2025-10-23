@@ -1,3 +1,4 @@
+#script.ps
 param (
     [string]$Env = "Development"
 )
